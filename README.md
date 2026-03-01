@@ -14,18 +14,11 @@ You find yourself at the top of a treacherous dungeon. Your goal is simple but t
 
 ## 🚀 Built With
 
-* **[Insert Language/Engine here, e.g., JavaScript & Kaboom.js / Python & Pygame]**
-* **Retro Pixel Art:** Featuring a classic 8-bit aesthetic.
-* **Grid-Based Movement:** Focused on tactical positioning.
+* **Game-Maker** game engine
 
 ## 🛠️ How to Play
 
-1. **Clone the repo:**
-```bash
-git clone https://github.com/asad-777/dungeon-crawler.git
-
-```
-
+Game is available in web version at itch.io [Click here to play]("https://asad-777.itch.io/dungeoncrawler")
 
 2. **Run the game:**
 *(Add specific instructions here, e.g., "Open index.html in your browser" or "Run python main.py")*
