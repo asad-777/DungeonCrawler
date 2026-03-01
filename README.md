@@ -21,7 +21,7 @@ You find yourself at the top of a treacherous dungeon. Your goal is simple but t
 Game is available in web version at itch.io [Click here to play](https://asad-777.itch.io/dungeoncrawler)
 
 * **Controls:**
-* **Arrows / WASD:** Move your hero.
+* **Arrows:** Move your hero.
 * **Goal:** Reach the chest without hitting enemies or spikes.
 
 
