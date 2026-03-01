@@ -20,9 +20,7 @@ You find yourself at the top of a treacherous dungeon. Your goal is simple but t
 
 Game is available in web version at itch.io [Click here to play](https://asad-777.itch.io/dungeoncrawler)
 
-2. **Run the game:**
-*(Add specific instructions here, e.g., "Open index.html in your browser" or "Run python main.py")*
-3. **Controls:**
+* **Controls:**
 * **Arrows / WASD:** Move your hero.
 * **Goal:** Reach the chest without hitting enemies or spikes.
 
