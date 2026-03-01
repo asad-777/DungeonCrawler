@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sWall",
-    "path":"sprites/sWall/sWall.yy",
+    "name":"sWallBlue",
+    "path":"sprites/sWallBlue/sWallBlue.yy",
   },
   "spriteMaskId":null,
   "visible":true,
